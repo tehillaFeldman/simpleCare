@@ -1,0 +1,3 @@
+# simpleCare
+
+Childcare management portal.
